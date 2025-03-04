@@ -1,3 +1,5 @@
+Source: https://www.w3.org/WAI/teach-advocate/contact-inaccessible-websites/
+
 The W3C's Web Accessibility Initiative (WAI) provides guidance on how to report accessibility issues on websites through their document "Contacting Organizations about Inaccessible Websites." Key steps include:
 
 1. **Identify Key Contacts**: Locate the appropriate person or department responsible for the website, such as through "Contact Us," "Feedback," or "Accessibility" links.
